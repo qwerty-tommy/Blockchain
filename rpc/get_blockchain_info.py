@@ -2,7 +2,6 @@ from bitcoin.rpc import RawProxy
 
 rpc_user='foo1'
 rpc_password='password'
-rpc_cookie=f'{rpc_user}:{rpc_password}'
 rpc_host = '127.0.0.1' 
 rpc_port = 8332  
 
